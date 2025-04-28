@@ -15,7 +15,6 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println("AMOOOO O CARLOS <3 ");
 
 		System.out.print("Enter the number of tax payers: ");
 		Integer n = sc.nextInt();
